@@ -11,3 +11,10 @@ Available seats on flight ABC123:
 Enter the seat number to book:
 79
 Seat 79 booked successfully.
+
+
+Enter departure airport: 
+JFK
+Enter arrival airport:
+ALB
+No flights available for the selected route.
